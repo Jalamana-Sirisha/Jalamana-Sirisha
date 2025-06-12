@@ -20,7 +20,7 @@ Hey there! I'm **Sirisha**, a **second year Electronics and communication engine
 ## 📬 Connect with Me:
 
 - 📧 **Email:** sirishajalamana@gmail.com 
-- 💼 **LinkedIn:** [Jalamana Sirisha](www.linkedin.com/in/jalamana-sirisha-46307131a)    
+- 💼 **LinkedIn:** [Jalamana Sirisha](https://www.linkedin.com/in/jalamana-sirisha-46307131a)    
 
 ---
 ## 💡 Feedback Welcome!
