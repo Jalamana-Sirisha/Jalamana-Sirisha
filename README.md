@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Jalamana Sirisha**
 
 ## 📌 About Me
-Hey there! I'm **Sirisha**, a **second year Electronics and communication engineering student** at Centurion university of technology and management with a passion for **coding and crafting innovative solutions**. This README is my playground to showcase my journey, skills, and aspirations. Let's dive in!
+Hey there! I'm **Sirisha**, a **third year Electronics and communication engineering student** at Centurion university of technology and management with a passion for **coding and crafting innovative solutions**. This README is my playground to showcase my journey, skills, and aspirations. Let's dive in!
 
 ---
 ## 🚀 Skills & Interests:
