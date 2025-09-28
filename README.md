@@ -1,18 +1,18 @@
 # 👋 Hi, I'm **Jalamana Sirisha**
 
 ## 📌 About Me
-Hey there! I'm **Sirisha**, a **third year Electronics and communication engineering student** at Centurion university of technology and management with a passion for **coding and crafting innovative solutions**. This README is my playground to showcase my journey, skills, and aspirations. Let's dive in!
+Hey there! I'm **Sirisha**, a **third year Electronics and communication engineering student** at Centurion university of technology and management with a passion for **Machine learning and AI**. This README is my playground to showcase my journey, skills, and aspirations. Let's dive in!
 
 ---
 ## 🚀 Skills & Interests:
 
-- **💻 Programming Languages:** Python, C, HTML, CSS  
-- **📚 Frameworks/Libraries:**  NumPy, Pandas, Matplotlib ,Scipy,Sklearn,Django
-- **🗄️ Databases:** MySQL 
+- **💻 Programming Languages:** Python, C, Java (Basics)
+- **📚 Frameworks/Libraries:**  NumPy, Pandas, Matplotlib ,Scipy,Sklearn,Flask,Tensorflow,Keras
+- **🗄️ Databases:** SQL,DBMS
 - **🧩 Data Structures & Algorithms:** Structuring information for efficiency  
-- **🛠️ Developer Tools:** Git/GitHub, Google Colab,  Anaconda ,Pycharm 
-- **🎓 Academic Coursework:** Data Structures, Operating Systems (Windows, Linux), OOP, DBMS  
-- **🎯 Interests:** Problem-Solving, Competitive Programming, Open-Source Contributions, Hackathons  
+- **🛠️ Developer Tools:** Git/GitHub, Google Colab,  Anaconda ,Pycharm ,Jupyer Notebook
+- **🎓 Academic Coursework:** Data Structures,  OOP, Machine Learning, Mathematics & Statistics 
+- **🎯 Interests:** Problem-Solving, Open-Source Contributions, Hackathons  
 
 ---
 
