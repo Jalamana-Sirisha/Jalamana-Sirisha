@@ -24,4 +24,4 @@ Hey there! I'm **Sirisha**, a **third year Electronics and communication enginee
 
 ---
 ## 💡 Feedback Welcome!
-I'm still learning and growing as a developer, so I **welcome constructive feedback** and suggestions. Feel free to reach out on any platform above—**let's connect!** 🚀
+I'm still learning and growing as an Engineer , so I **welcome constructive feedback** and suggestions. Feel free to reach out on any platform above—**let's connect!** 🚀
