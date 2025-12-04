@@ -7,7 +7,7 @@ Hey there! I'm **Sirisha**, a **third year Electronics and communication enginee
 ## 🚀 Skills & Interests:
 
 - **💻 Programming Languages:** Python, C, Java (Basics)
-- **📚 Frameworks/Libraries:**  NumPy, Pandas, Matplotlib ,Scipy,Sklearn,Flask,Tensorflow,Keras
+- **📚 Frameworks/Libraries:**  NumPy, Pandas, Matplotlib ,Sklearn,Flask
 - **🗄️ Databases:** SQL,DBMS
 - **🧩 Data Structures & Algorithms:** Structuring information for efficiency  
 - **🛠️ Developer Tools:** Git/GitHub, Google Colab,  Anaconda ,Pycharm ,Jupyer Notebook
